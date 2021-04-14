@@ -16,6 +16,9 @@ Procedure followed : 1.Used expo to create react native app.
 ![Mobile View](https://user-images.githubusercontent.com/43749831/114703015-669e8800-9d42-11eb-8344-3bf3fd81c976.png)
 
 How to run : use commands
+
              1. npm start
+              
              2. echo start
+              
              3. run in web browser or scan the QR code given in terminal in Expo app.
